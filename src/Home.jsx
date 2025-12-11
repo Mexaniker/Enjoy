@@ -5,7 +5,7 @@ const Home = () => {
     <div>
       {/* Приветственная секция */}
       <div style={{ marginBottom: '20px' }}>
-        <h1>Good Morning, Student! ☀️</h1>
+        <h1>Good Morning! ☀️</h1>
         <p className="subtitle" style={{ marginBottom: '20px' }}>Готовы улучшить свой английский сегодня?</p>
       </div>
 
